@@ -156,7 +156,7 @@ npm run dev
 
 ---
 
-## Screenshots (Optional)
+## Screenshots
 
 * **Add School Page**: Form UI for adding school details
 * **View Schools Page**: Displays all saved schools in a card layout
