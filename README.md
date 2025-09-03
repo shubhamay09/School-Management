@@ -174,8 +174,6 @@ Access the app at:
 
 ---
 
-## **Screenshots (Optional)**
-
 * Add School Page: Input form with validation and image upload.
 * Show Schools Page: Card layout displaying all saved schools.
 
